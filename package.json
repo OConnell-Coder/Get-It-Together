@@ -1,0 +1,12 @@
+{
+  "name": "get-it-together",
+  "version": "1.0.0",
+  "description": "A To-Do List &amp; Reminder application specifically designed for &amp; by Neurodivergent people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stevie O'Connell and Mia Ciasullo",
+  "license": "ISC"
+}
